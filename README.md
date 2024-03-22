@@ -30,14 +30,14 @@
 
 ## Images
 
-![윤가희 사진](https://avatars.githubusercontent.com/u/25231954?v=4)
+![사진](https://github.com/TerryKim2/MiniHomepage/blob/main/pika.png?raw=true)
 
 
 ## Contact Me
 
-이메일: [a5312559@gmail.com](a5312559@gmail.com) 
+이메일: [cubby990118@gmail.com](cubby990118@gmail.com) 
 
-깃허브 링크: [https://github.com/gaheeyoon](https://github.com/gaheeyoon)
+깃허브 링크: [https://github.com/TerryKim2](https://github.com/TerryKim2)
 
 ## Blocks of code
 
@@ -47,4 +47,4 @@ print("Hello World")
 
 
 ## 좋아하는 캐릭터
-![피카츄](https://github.com/gaheeyoon/MiniHomepage/blob/main/pika.png?raw=true)
+![피카츄](https://github.com/TerryKim2/MiniHomepage/blob/main/pika.png?raw=true)
