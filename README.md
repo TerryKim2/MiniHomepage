@@ -19,8 +19,8 @@
 - 원격에서 리드미 수정
 
 ## 기본 정보
-- 위키북스 재직 중
-- 테크니컬 에디터
+- University of Illinois Springfield에서 computer science학부 졸업.
+- Unreal enginee5 기반 메타버스 sw개발자 양성 과정 수료.
 
 ## 소개 문구
 
@@ -32,6 +32,7 @@
 1. 독서
 2. 음악 감상
 3. 보드게임
+4. 각종 게임들
     
 
 ## Images
