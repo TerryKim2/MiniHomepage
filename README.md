@@ -4,7 +4,6 @@
 ## 스타일 구성 추가
 - sytle.md 파일 추가
 
-
 ## 서비스 소개 추가 완료
 - style.md 추가
 
@@ -21,6 +20,7 @@
 ## 기본 정보
 - University of Illinois Springfield에서 computer science학부 졸업.
 - Unreal enginee5 기반 메타버스 sw개발자 양성 과정 수료.
+- 제작 게임 링크 [https://youtu.be/kuRPekMTkhw](https://youtu.be/kuRPekMTkhw)
 
 ## 소개 문구
 
